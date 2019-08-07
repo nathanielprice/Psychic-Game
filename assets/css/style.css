@@ -1,0 +1,53 @@
+.header {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    padding: 25px;
+    text-align: center;
+}
+
+.container {
+    width: 60%;
+    background-color: transparent;
+    color: #007399;
+    border: 5px solid black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+    text-align: center;
+  }
+
+.row {
+    background-color: rgb(58, 206, 206);
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    margin-top: 15px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.row > div {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+h1 {
+    font-size: 40px;
+    font-weight: bold;
+  }
+
+h3 {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+  }
+
+.populate {
+    background-color: rgb(58, 206, 206);
+    color: black;
+    width: 100%;
+    margin: auto;
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 15px;
+    text-align: center;
+}
